@@ -1,0 +1,80 @@
+participant_id	age_ses-T1	age_ses-T2	sex	handedness	ADHD_diagnosis	ADHD_medication
+sub-01	10.77	n/a	1	2	1	Metadate daily
+sub-02	11.9	n/a	1	2	1	Concerta on school days
+sub-03	11.19	13.59	1	2	0	n/a
+sub-04	9.22	11.54	1	2	1	Vvyanse once
+sub-05	8.59	n/a	1	2	1	"focalin - 20 mg, Monday - Friday"
+sub-06	11.85	14.06	1	2	1	n/a
+sub-07	10.7	n/a	1	2	0	n/a
+sub-08	9.34	n/a	1	2	1	n/a
+sub-09	11.85	14.23	1	2	1	Focalin
+sub-10	10.77	13.34	1	2	1	Focalin
+sub-11	11.38	n/a	1	2	1	Focalin daily
+sub-12	10.1	12.54	1	2	1	Concerta
+sub-13	9.97	12.38	1	2	1	Concerta daily
+sub-14	10.69	n/a	1	2	1	Focalin 5 mg daily
+sub-15	9.06	n/a	1	2	0	n/a
+sub-16	9.66	11.71	2	2	0	n/a
+sub-17	9.32	11.96	1	2	1	Focalin daily
+sub-18	9.59	11.48	2	2	0	n/a
+sub-19	10.72	12.58	2	2	0	n/a
+sub-20	9.09	11.63	1	2	0	n/a
+sub-21	9.09	11.63	2	2	0	n/a
+sub-22	11.09	n/a	1	2	0	n/a
+sub-23	11.08	n/a	2	n/a	0	n/a
+sub-24	10.24	n/a	1	2	1	Concerta
+sub-25	10.96	n/a	1	2	1	Adderall twice daily
+sub-26	11.67	13.79	2	2	0	n/a
+sub-27	10.06	11.91	2	2	0	n/a
+sub-28	9.3	n/a	2	2	0	n/a
+sub-29	10.21	11.97	1	2	1	Adderall XR 15mg
+sub-30	9.05	11.04	1	2	1	n/a
+sub-31	11.63	13.95	1	2	0	n/a
+sub-32	9.85	n/a	1	2	1	Concerta 27mg daily
+sub-33	10.01	12.14	1	2	1	Vyvanse 20mg daily
+sub-34	9.09	n/a	1	2	0	n/a
+sub-35	10.54	12.68	1	2	0	n/a
+sub-36	10.54	12.68	1	2	0	n/a
+sub-37	9.91	11.63	1	2	0	n/a
+sub-38	11.67	13.59	1	2	0	n/a
+sub-39	11.39	13.32	1	2	0	n/a
+sub-40	11.2	13.25	1	2	0	n/a
+sub-41	11.83	13.78	2	2	0	n/a
+sub-42	9.51	n/a	2	2	0	n/a
+sub-43	9.8	n/a	1	2	0	n/a
+sub-44	9.18	11.21	1	2	1	Concerta daily
+sub-45	8.88	n/a	2	2	0	n/a
+sub-46	10.21	11.96	1	2	0	n/a
+sub-47	11.82	13.79	2	2	0	n/a
+sub-48	11.93	13.94	1	2	0	n/a
+sub-49	10.91	12.86	2	2	0	n/a
+sub-50	9.24	n/a	1	2	1	Concerta daily
+sub-51	9.63	n/a	1	2	0	n/a
+sub-52	11.39	n/a	2	2	0	n/a
+sub-53	11.27	13.24	1	2	0	n/a
+sub-54	10.03	12.03	1	2	1	"May be starting soon, none at study enrollment"
+sub-55	9.06	n/a	1	2	1	Concerta 18mg
+sub-56	11.17	13.02	1	2	0	n/a
+sub-57	11.28	13.31	1	2	1	Concerta daily
+sub-58	11.68	13.5	1	2	0	n/a
+sub-59	9.82	11.62	1	2	0	n/a
+sub-60	8.74	10.51	1	2	0	n/a
+sub-61	11.63	13.57	1	2	0	n/a
+sub-62	11.83	n/a	1	2	0	n/a
+sub-63	9.98	12.03	1	2	0	n/a
+sub-64	9.79	n/a	1	2	0	n/a
+sub-65	9.35	n/a	1	2	0	n/a
+sub-66	11.13	13.18	1	2	1	Adderall XR 15mg daily
+sub-67	10.54	12.47	1	2	1	n/a
+sub-68	10.66	12.3	1	2	0	n/a
+sub-69	10.65	12.63	1	2	0	n/a
+sub-70	9.57	n/a	1	2	1	AdderallXR 25mg daily
+sub-71	9.38	11.17	1	2	1	Concerta twice daily
+sub-72	10.05	12.2	1	2	0	n/a
+sub-73	10.59	n/a	1	2	1	Adderall XR
+sub-74	9.67	11.79	1	2	1	Concerta xr 36mg daily
+sub-75	10.51	n/a	1	2	1	Concerta 54mg daily
+sub-76	11.07	n/a	1	2	1	Adderall 5 days/week
+sub-77	11.96	13.59	1	2	1	Adderall once daily
+sub-78	11.31	n/a	1	2	1	Ritalin twice daily M-F
+sub-79	9.55	n/a	1	2	1	Adderall 10mg twice daily
