@@ -66,5 +66,25 @@
    "VSI_datetime": {
   	"LongName": "task-VSI datetime",
 	"Description": "date and time of ses-T1_task-VSI, dates have been randomly shifted -365 to 0 days per subject to preserve anonymity, years shifted to 18XX to make date shifting transparent."
-  } 
+},
+"race": {
+  "Description": "How would you describe yourself?",
+  "Levels": {
+    "1": "American Indian or Alaskan Native",
+    "2": "Asian",
+    "3": "Black or African American",
+    "4": "Native Hawaiian or Other Pacific Islander",
+    "5": "White",
+    "6": "Two or more races",
+    "7": "Other"
+  }
+},
+"ethnicity": {
+  "LongName": "Ethnicity",
+  "Description": "Ethnicity of participants",
+  "Levels": {
+    "1": "Hispanic or Latino",
+    "2": "Not Hispanic or Latino"
+  }
+}
 }
