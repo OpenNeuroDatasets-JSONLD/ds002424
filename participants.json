@@ -7,15 +7,16 @@
         "TermURL": "nb:Age",
         "Label": ""
       },
-      "Transformation": {
-        "TermURL": "nb:FromFloat",
-        "Label": "float data"
-      },
       "MissingValues": [
         "",
         "n/a",
         " "
-      ]
+      ],
+      "Format": {
+        "TermURL": "nb:FromFloat",
+        "Label": "float data"
+      },
+      "VariableType": "Continuous"
     }
   },
   "age_ses-T2": {
@@ -43,7 +44,8 @@
           "TermURL": "snomed:248152002",
           "Label": ""
         }
-      }
+      },
+      "VariableType": "Categorical"
     }
   },
   "handedness": {
@@ -124,7 +126,7 @@
         "TermURL": "nb:ParticipantID",
         "Label": ""
       },
-      "Identifies": "participant"
+      "VariableType": "Identifier"
     },
     "Description": "There should have been a description here, but there wasn't. :("
   }
